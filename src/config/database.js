@@ -1,9 +1,9 @@
 module.exports = {
     dialect: 'mysql',
-    host:'localhost',
-    username: 'root',
-    password:'Lucas180699',
-    database: 'tavaresApi',
+    host:'mysql669.umbler.com:41890',
+    username: 'cesar_filho',
+    password:'3}79r,bgTfVQ',
+    database: 'tavares_dados1',
     define:{
         timestamps: true,
         underscored:true,
